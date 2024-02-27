@@ -1,0 +1,7 @@
+if game.PlaceId == 4924922222 then -- Brookhaven
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/Qrto1/testif/main/itself"))()
+elseif game.PlaceId == 8737602449 then -- Pls donate
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/Qrto1/fencing/main/trying"))()
+else
+    print("No script available for this game.")
+end
